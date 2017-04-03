@@ -1,11 +1,13 @@
-# api documentation for  [classnames (v2.2.5)](https://github.com/JedWatson/classnames#readme)  [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-classnames.svg)](https://travis-ci.org/npmdoc/node-npmdoc-classnames)
+# api documentation for  [classnames (v2.2.5)](https://github.com/JedWatson/classnames#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-classnames.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-classnames) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-classnames.svg)](https://travis-ci.org/npmdoc/node-npmdoc-classnames)
 #### A simple utility for conditionally joining classNames together
 
 [![NPM](https://nodei.co/npm/classnames.png?downloads=true)](https://www.npmjs.com/package/classnames)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-classnames/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-classnames_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-classnames/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-classnames/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-classnames_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-classnames/build..beta..travis-ci.org/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-classnames/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-classnames/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-classnames/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
