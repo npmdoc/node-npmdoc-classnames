@@ -1,6 +1,6 @@
 # npmdoc-classnames
 
-#### api documentation for  [classnames (v2.2.5)](https://github.com/JedWatson/classnames#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-classnames.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-classnames) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-classnames.svg)](https://travis-ci.org/npmdoc/node-npmdoc-classnames)
+#### basic api documentation for  [classnames (v2.2.5)](https://github.com/JedWatson/classnames#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-classnames.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-classnames) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-classnames.svg)](https://travis-ci.org/npmdoc/node-npmdoc-classnames)
 
 #### A simple utility for conditionally joining classNames together
 
@@ -67,7 +67,8 @@
         "test": "npm run unit",
         "unit": "mocha tests/*.js"
     },
-    "version": "2.2.5"
+    "version": "2.2.5",
+    "bin": {}
 }
 ```
 
